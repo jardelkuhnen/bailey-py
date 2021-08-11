@@ -15,7 +15,7 @@ pip install -r requirements.txt
 
 #### Start MongoDB instance
 ```sh
-Run command bellow on root directory to start mongodb instance
+Run command below on root directory to start mongodb instance
 
 docker-compose up -d
 
@@ -23,7 +23,7 @@ docker-compose up -d
 
 #### Run Application
 ```sh
-Run command bellow to start the application
+Run command below to start the application
 
 py run.py
 
