@@ -9,8 +9,13 @@
 
 #### Install required dependencies:
 ```sh
-
 pip install -r requirements.txt
+
+```
+
+#### Run Application
+```sh
+py run.py
 
 ```
 
